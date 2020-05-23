@@ -1,0 +1,97 @@
+				*{
+					padding: 0;
+					margin: 0;
+					}
+				.container{
+					width:100%;
+					margin:0 auto;
+					background-color:#FFFFFF;
+					padding:left;
+					text-align: left;
+					}/*这是背景设置*/
+				.nav{
+					font-family: "黑体";
+					font-size: 30px;
+					text-align: center;
+					background-color:#7A99D9;
+					margin:0 auto;
+					}/*这是导航属性设置*/
+				a:hover,a:active{
+					color: #000000;	
+					background-color: #2E8D8C;
+					}
+				.header{
+					font-family: "字魂49号-逍遥行书";
+					font-size: 60px;
+					text-align: center;
+					margin:0 auto;
+					}/*这是页头属性设置*/
+				.footer{
+					text-align: center;
+					font-family: "字魂49号-逍遥行书";
+					font-size: 30px;
+					margin:0 auto;
+					}/*这是页脚属性设置*/
+				.article{
+					text-indent: 2em;
+					font-family: "华文行楷";
+					font-size: 30px;
+					margin:0 auto;
+					}/*这是正文属性设置*/
+				.section{
+					text-indent: 2em;
+					font-family: "华文行楷";
+					font-size: 30px;
+					margin:0 auto;
+					}/*这是片段属性设置*/
+				.aside{
+					height:200px;
+					background-color:#7A99D9;
+					width: 450px;
+					text-align: left;
+					margin-left:auto;
+					font-family:"华文行楷";
+					font-size: 20px;
+					margin:0 auto;
+					}/*这是旁边栏属性设置*/
+				.main{
+					background-color:#7A99D9;
+					margin:0 auto;
+					}/*这是主体属性设置*/
+				.picture{
+					text-align: center;
+					}
+				.word{
+					font-family: "黑体";
+					font-size: 20px;
+					}
+				.text{
+					text-align: right; 
+					color:#850002;
+					}
+				.container1{
+					margin: 0px auto;
+					width: 100%;
+					text-align: center;
+					background-color:#71A5C9;
+					padding: 20px;
+					}
+				#nav{
+					list-style: none;
+					font-size: 20px;
+					line-height: 35px;
+					}
+				#nav ul{
+					margin:0px auto;
+					width:100px;
+					float:left;
+					font-family: "黑体";
+					position: fixed;
+					top: 0px;
+					list-style:none
+					}
+				span.crosshair{cursor:crosshair;}
+				span.help{cursor: help;}
+				span.wait{cursor: wait;}
+				span.text{cursor: text;}
+
